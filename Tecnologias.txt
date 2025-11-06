@@ -1,1 +1,5 @@
 -- Arquivo de texto tewcnologias -- 
+
+As tecnologias que foram utilizadas para o desenvolvimento do projeto foram:
+1-VS code
+2-Git Hub
